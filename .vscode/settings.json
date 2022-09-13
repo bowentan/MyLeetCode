@@ -1,7 +1,6 @@
 {
     "clang-format.language.cpp.style": "google",
     "clang-format.language.cuda.enable": true,
-    "cpplint.cpplintPath": "/opt/homebrew/bin/cpplint",
     "[cpp]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
@@ -79,4 +78,6 @@
     "cpplint.filters": [
         "-runtime/references"
     ],
+    "clang-format.executable": "/Users/bowentan/miniconda3/envs/lc/bin/clang-format",
+    "cpplint.cpplintPath": "/Users/bowentan/miniconda3/envs/lc/bin/cpplint",
 }

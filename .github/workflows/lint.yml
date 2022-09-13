@@ -12,7 +12,7 @@ on:
   pull_request:
     branches: ["main"]
 jobs:
-  super-lint:
+  glob-linters:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
