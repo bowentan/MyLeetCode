@@ -22,6 +22,6 @@ jobs:
           # files within `super-linter`
           fetch-depth: 0
       - name: Lint
-        uses: bowentan/glob-linters@a8146365d26fea01f8aef11b4e56f0a50459dd07
+        uses: bowentan/glob-linters@v0.1.0-alpha.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
