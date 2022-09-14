@@ -23,5 +23,7 @@ jobs:
           fetch-depth: 0
       - name: Lint
         uses: bowentan/glob-linters@v0.1.0-alpha.3
+        with:
+          platform: linux/amd64
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
