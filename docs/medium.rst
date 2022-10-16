@@ -1,5 +1,5 @@
-Medium problems
-===============
+Medium
+======
 
 .. toctree::
    :maxdepth: 1

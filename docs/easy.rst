@@ -1,5 +1,5 @@
-Easy problems
-=============
+Easy
+====
 
 .. toctree::
    :maxdepth: 1
