@@ -1,5 +1,6 @@
 // Copyright 2022 Bowen Tan
 
+/* Self-compile part start, unnecesssary in LeetCode website */
 #include <queue>
 using std::make_tuple;
 using std::queue;
@@ -16,6 +17,7 @@ struct TreeNode {
   TreeNode(int x, TreeNode* left, TreeNode* right)
       : val(x), left(left), right(right) {}
 };
+/* Self-compile part end */
 
 class Solution {
  public:
