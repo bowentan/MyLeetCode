@@ -1,2 +1,6 @@
 /CPPLINT.cfg
 /.clang-format
+
+_build/
+_static/
+_templates/
