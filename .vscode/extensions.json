@@ -2,7 +2,6 @@
     "recommendations": [
         "ms-vscode.cpptools-extension-pack",
         "mine.cpplint",
-        "jeff-hykin.better-cpp-syntax",
         "wwm.better-align"
     ]
 }
