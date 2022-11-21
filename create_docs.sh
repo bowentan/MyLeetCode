@@ -23,6 +23,6 @@ for dir in easy medium hard; do
             echo ".. literalinclude:: ../../$dir/$probname/answer.cpp"
             echo "    :language: cpp"
             echo "    :linenos:"
-        } >>"$doc_file"
+        } >"$doc_file"
     done
 done
