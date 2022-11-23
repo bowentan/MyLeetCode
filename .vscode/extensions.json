@@ -2,6 +2,5 @@
     "recommendations": [
         "ms-vscode.cpptools-extension-pack",
         "mine.cpplint",
-        "wwm.better-align"
     ]
 }
